@@ -1,5 +1,5 @@
 # Order Simulation System
-**Author:** Won Oh (wonsoh@live.com)
+**Author:** ~~Won Oh (wonsoh@live.com)~~ Paul Won Oh (wonsoh1234@gmail.com)
 ## Setup
 ### Setting up Go
 This environment assumes you are using latest version of Go at the time of writing (version 1.18+).
